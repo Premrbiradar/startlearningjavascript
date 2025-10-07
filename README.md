@@ -1,0 +1,2 @@
+# startlearningjavascript
+learning the javascript 
